@@ -6,7 +6,7 @@
 */
 const a = 15;
 const b = (9 / 5) * a + 32
-console.log(b);
+console.log(a, b);
 
 /*
 Задание 2
